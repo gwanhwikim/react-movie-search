@@ -11,7 +11,7 @@ import SignUp from "../pages/SignUp";
 
 export default [
   {
-    path: "/",
+    path: "/react-movie-search",
     component: Main,
   },
   {

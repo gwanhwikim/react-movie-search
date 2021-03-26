@@ -5,7 +5,7 @@ const Nav = ({ movies }) => {
     <div className="headerBox">
       <div className="header">
         <div className="logoBox">
-          <Link to="/">
+          <Link to="/react-movie-search">
             <img
               src={process.env.PUBLIC_URL + "logo3.png"}
               alt="로고"
